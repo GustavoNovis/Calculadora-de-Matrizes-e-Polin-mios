@@ -1,16 +1,13 @@
-# Calculadora de Matrizes e Polinômios
-Esse projeto foi desenvolvido para estudantes de matemática, focado para o tema de Cálculo de Matrizes ou de Polinômios
+# Projeto-Estruturas-Matemáticas
+**Disciplina:** Estruturas Matemáticas  
+**Professora: Maricélia Soares ** 
+
+##  Descrição
+Projeto acadêmico desenvolvido em grupo como parte da Atividade Prática A3 do curso de Estruturas Matemáticas. O desafio,  consiste em desenvolver um site ou um jogo, onde iremos utilizar essas estruturas matemáticas para dar andamento do jogo/site.
+
+## Tecnologias utilizadas
+- **HTML**
+- **CSS**
+- **JS**
 
 
-**Cálculo de Matrizes:** realiza a soma, subtração, multiplicão, transposição, determinante e inversa da matriz.
-
- - Vc terá a opção de variar a quantidade de linhas e colunas das matrizes
-
- - Abaixo possui um quadro que mostra passo a passo das equações
-
-
-**Operação de Polinômios**
-
- - Vc informa o polinômio; define se a operação irá 'Avaliar em X' ou 'Encontrar as Raízes'; também o valor de X.
-
- - Abaixo possui um quadro que mostra passo a passo das equações
